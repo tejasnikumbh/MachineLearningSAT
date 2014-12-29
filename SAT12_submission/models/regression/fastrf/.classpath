@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/ubc/cs/project/arrow/hutter/altuning/matlab/JS_FastRfLearning/regression/Weibull.jar"/>
+	<classpathentry kind="lib" path="/cs/local/generic/lib/pkg/matlab-7.10/toolbox/javabuilder/jar/javabuilder.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
