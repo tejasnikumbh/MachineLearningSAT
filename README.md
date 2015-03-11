@@ -8,6 +8,6 @@ Machine Learning SAT
   - Current Models obtain accuracy of ~80% on average using MLP ALgorithms
   -Work currently in progress...
 
-* References
+* Important References
   - Devlin, David, and Barry O’Sullivan. "Satisfiability as a classification problem." Proc. of the 19th Irish Conf. on Artificial Intelligence and Cognitive Science. 2008.
   - Xu, Lin, et al. "SATzilla: portfolio-based algorithm selection for SAT." Journal of Artificial Intelligence Research (2008): 565-606.
